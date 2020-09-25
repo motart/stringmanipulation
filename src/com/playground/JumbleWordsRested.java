@@ -1,4 +1,4 @@
-package com.company;
+package com.playground;
 
 import java.util.*;
 
